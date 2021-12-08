@@ -1,0 +1,12 @@
+url:
+  boc: 'https://srh.bankofchina.com/search/whpj/search_cn.jsp'
+  bosc: 'https://www.bosc.cn/apiQry/apiQry/qryMcForexch?_='
+CCY:
+  - currency: 'USD'
+    currency_explain: '美元'
+  - currency: 'GBP'
+    currency_explain: '英镑'
+  - currency: 'JPY'
+    currency_explain: '日元'
+  - currency: 'EUR'
+    currency_explain: '欧元'

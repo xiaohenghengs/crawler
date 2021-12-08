@@ -1,0 +1,13 @@
+zumoo:
+  prod:
+    host: '192.168.1.189'
+    port: 3706
+    username: 'skyloan'
+    password: 'Sky001tech_'
+    database: 'skyloan'
+  dev:
+    host: '49.4.28.230'
+    port: 3344
+    username: 'root'
+    password: 'r@@t'
+    database: 'skyloan-dev'
